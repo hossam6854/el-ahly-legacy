@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+
+body {
+  font-family: 'Cairo', sans-serif;
+  background-color: #f3f4f6; /* تقريبًا bg-gray-100 */
+  color: #1a1a1a; /* ahlyBlack */
+}
+
+/* ألوان الأهلي مخصصة */
+.text-ahlyRed {
+  color: #D50000;
+}
+.text-ahlyGold {
+  color: #FFD700;
+}
+.bg-ahlyRed {
+  background-color: #D50000;
+}
+.bg-ahlyGold {
+  background-color: #FFD700;
+}
